@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jess-yon&hide=stars&count_private=true&include_all_commits=true&show_icons=true&line_height=24" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jess-yon&hide=stars&count_private=true&include_all_commits=true&show_icons=true&line_height=24&disable_animations=false" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jess-yon&layout=compact" />
