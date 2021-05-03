@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jess-yon&hide=stars&count_private=true&include_all_commits=true&show_icons=true&line_height=24" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jess-yon&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&line_height=30" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jess-yon&layout=compact" />
@@ -20,8 +20,6 @@
 <br />
 
 - 📫 How to reach me: **jessy2yon@gmail.com**
-
-
 
 <!--
 **jess-yon/jess-yon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
