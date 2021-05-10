@@ -1,25 +1,18 @@
-<p align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=70&section=header&fontSize=90" />
-</p>
-
-<br />
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jess-yon&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&line_height=30" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jess-yon&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jess-yon&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&line_height=30&theme=buefy" />
   </a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jess-yon&" alt="jess-yon" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jess-yon&theme=buefy" alt="jess-yon" />
 </p>
 
 <br />
 
 - 📫 How to reach me: **jessy2yon@gmail.com**
+
 
 <!--
 **jess-yon/jess-yon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
