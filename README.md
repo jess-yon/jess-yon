@@ -1,12 +1,12 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jess-yon&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&line_height=30&theme=react" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jess-yon&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&line_height=30&theme=flag-india" />
   </a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jess-yon&theme=react" alt="jess-yon" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jess-yon&theme=flag-india" alt="jess-yon" />
 </p>
 
 <br />
