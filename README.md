@@ -39,7 +39,7 @@
 
 ## 🧚 more about me ##
 <p align="center">
-  <a href="mailto:jess2yon@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessy2yon@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <a href="mailto:jessy2yon@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessy2yon@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   &nbsp;
   <a href="https://b.link/yessy-til"> <img src="https://img.shields.io/badge/TIL-000000?style=flat-square&logo=Notion&logoColor=white&link=https://b.link/yessy-til" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
